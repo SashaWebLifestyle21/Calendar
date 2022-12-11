@@ -1,0 +1,11 @@
+.info__text{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #86878B;
+    width: 400px;
+    margin: 0 auto
+}

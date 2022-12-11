@@ -1,0 +1,37 @@
+.header__menu {
+
+}
+
+.menu__list{
+    display: flex;
+}
+
+.menu__item {
+    list-style: none;
+}
+
+.menu__link {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    min-width: 134px;
+    padding: 36px 0 32px;
+    border-bottom: 3px solid transparent;
+
+    font-family: Open Sans;
+    font-style: normal;
+    /* font-weight: 600; */
+    font-size: 15px;
+    line-height: 20px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+    transition: border-color .3s  linear;
+    cursor: pointer;
+}
+
+.menu__link:hover{
+    border-color: #EC7979;
+}
