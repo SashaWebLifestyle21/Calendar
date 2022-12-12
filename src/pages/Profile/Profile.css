@@ -12,11 +12,31 @@
     font-family: Raleway;
     font-style: normal;
     font-weight: normal;
-    font-size: 128px;
+    font-size: 64px;
     color: #212121;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     text-align: center;
 }
 .profile__span {
     color: #EC7979;
+}
+
+.profile-events-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 25px;
+}
+.profile__event{
+    border-radius: 10px;
+    background-color: #EC7979;
+    padding: 10px;
+}
+.profile-event-text{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    color: #212121;
+    text-align: center;
 }
