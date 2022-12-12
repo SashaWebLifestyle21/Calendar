@@ -57,8 +57,9 @@ export const login = ( username: string, password: string, users: IUser[] ) => (
         if(candidate) {
             localStorage.setItem('auth', 'true')
             localStorage.setItem('username', candidate.username)
-            dispatch(setAuth(true))
             dispatch(setUser(candidate))
+
+            dispatch(setAuth(true))
         } else {
             dispatch(setError('Имя пользователя или пароль введены неверно'))
         }

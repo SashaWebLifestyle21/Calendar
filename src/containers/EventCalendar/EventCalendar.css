@@ -52,12 +52,12 @@
     grid-template-rows: 1fr;
 }
 
-.calendar__day{
-    border: 1px solid #BDBDBD;
-    cursor: pointer;
-    padding: 5px;
-    height: 100px;
-}
+/*.calendar__day{*/
+/*    border: 1px solid #BDBDBD;*/
+/*    cursor: pointer;*/
+/*    padding: 5px;*/
+/*    height: 100px;*/
+/*}*/
 
 .calendar__today{
     background-color: #0000CD;
