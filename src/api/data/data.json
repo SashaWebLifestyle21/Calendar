@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "firstName": "Sasha",
+    "lastName": "Svetogor",
+    "email": "sasha.svetogor@gmail.com",
+    "age": 21,
+    "streetAddress": "geroev120",
+    "city": "Minsk",
+    "state": "Belarus",
+    "phoneNumbers": "1234567",
+    "position": "React Engineer",
+    "office": "office1"
+  },
+  {
+    "id": "2",
+    "firstName": "Vasya",
+    "lastName": "Pupkin",
+    "email": "vasya@gmail.com",
+    "age": 20,
+    "streetAddress": "platonova",
+    "city": "Minsk",
+    "state": "Belarus",
+    "phoneNumbers": "7654321",
+    "position": "Java Engineer",
+    "office": "office2"
+  },
+  {
+    "id": "3",
+    "firstName": "Alex",
+    "lastName": "Ivanov",
+    "email": "alex@gmail.com",
+    "age": 21,
+    "streetAddress": "gikalo",
+    "city": "Minsk",
+    "state": "Belarus",
+    "phoneNumbers": "1234567",
+    "position": "Kotlin Engineer",
+    "office": "office3"
+  },
+  {
+    "id": "4",
+    "firstName": "Veronika",
+    "lastName": "Varenikova",
+    "email": "veronika@gmail.com",
+    "age": 24,
+    "streetAddress": "kalinovskogo",
+    "city": "Minsk",
+    "state": "Belarus",
+    "phoneNumbers": "2345678",
+    "position": "Python Engineer",
+    "office": "office2"
+  },
+  {
+    "id": "5",
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "email": "ivan@gmail.com",
+    "age": 30,
+    "streetAddress": "gikalo",
+    "city": "Minsk",
+    "state": "Belarus",
+    "phoneNumbers": "9876543",
+    "position": "Java Engineer",
+    "office": "office1"
+  },
+  {
+    "id": "6",
+    "firstName": "Vova",
+    "lastName": "Malinov",
+    "email": "vova@gmail.com",
+    "age": 21,
+    "streetAddress": "pushkinskaya",
+    "city": "Minsk",
+    "state": "Belarus",
+    "phoneNumbers": "1234567",
+    "position": "NodeJS Engineer",
+    "office": "office4"
+  }
+]

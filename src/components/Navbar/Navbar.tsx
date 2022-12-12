@@ -23,6 +23,9 @@ const Navbar = () => {
                                 <Link className='menu__link' to={'/profile'}>profile</Link>
                             </li>
                             <li className='menu__item'>
+                                <Link className='menu__link' to={'/data'}>data</Link>
+                            </li>
+                            <li className='menu__item'>
                                 <Link className='menu__link' to={'/calendar'}>calendar</Link>
                             </li>
                             <li className='menu__item' onClick={() => dispatch(logout())}>
@@ -32,7 +35,6 @@ const Navbar = () => {
                     :   <li className='menu__item'>
                             <Link className='menu__link' to={'/login'}>login</Link>
                         </li>
-
                 }
             </ul>
         </nav>

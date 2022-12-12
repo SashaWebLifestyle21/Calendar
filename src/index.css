@@ -12,3 +12,9 @@
 a{
   text-decoration: none;
 }
+._container{
+  max-width: 1182px;
+  margin: 0 auto;
+  padding: 0 16px;
+  box-sizing: content-box;
+}
